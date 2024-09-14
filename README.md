@@ -1,9 +1,10 @@
 <div align = 'center'>
   <img src = './Void_Cipher.png' alt = 'image' />
 </div>
-# 💫 About Me:
+<h2 align = 'center'>
+ 💫 About Me:
 ### Void Cipher always On Top<br>I'm Fivem & Developers ( Last Work 2024 )<br>Python programmer ( Last Work 2024 )<br>HTML & CSS programmer ( Last Work 2022 )<br>Lua programmer ( Last Work 2024 )<br>MySQL programmer ( Last Work 2024 )<br>The last team I worked for was Void Cipher
-
+</h2>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XtSpAFwVz6) 
