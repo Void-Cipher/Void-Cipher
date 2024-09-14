@@ -20,7 +20,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Big-Developers1&icon=5&color=0)](https://visitcount.itsvg.in)
 
-</div>
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -32,3 +32,5 @@
 ### Welcome to my world. This is the digital frontier.
 
 ![](https://i.imgur.com/waxVImv.png)
+
+</div>
