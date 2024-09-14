@@ -10,6 +10,7 @@
 </div>
 
 <div align = 'center'>
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XtSpAFwVz6) 
 
