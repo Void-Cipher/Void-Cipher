@@ -19,10 +19,9 @@
 [![](https://visitcount.itsvg.in/api?id=Big-Developers1&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # ✍️ Dev Quote
-<div align = 'center'>
 ### In a world built on code, the unseen becomes power.
 ### I am the shadow in the system, the cipher in the void. I don't just see the matrix, I bend it. Vulnerabilities are my roadmap, exploits are my weapon, and knowledge is my only ally. The art of hacking is not destruction—it's creation, innovation, and evolution.
 ### I don't follow the code; I rewrite it. I don't break systems; I uncover their truth.
 ### Every lock has a key. Every firewall has a weakness. And every system is just waiting to be understood.
 ### Welcome to my world. This is the digital frontier.
-</div>
+
