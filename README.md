@@ -24,7 +24,7 @@
 
 
 # 💻 Tech Stack :
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="48"> ![Lua](https://skillicons.dev/icons?i=lua) ![Python](https://skillicons.dev/icons?i=py) <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="48"> ![CPP](https://skillicons.dev/icons?i=cpp)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="48"> ![Lua](https://skillicons.dev/icons?i=lua) ![Python](https://skillicons.dev/icons?i=py) <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" width="48"> ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp)
 
 
 [![](https://visitcount.itsvg.in/api?id=Big-Developers1&icon=5&color=0)](https://visitcount.itsvg.in)
