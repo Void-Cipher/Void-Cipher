@@ -1,7 +1,7 @@
 <div align = 'center'>
   <img src = './Void_Cipher.png' alt = 'image' />
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #2F4F4F; background-color: #f4f4f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 80%; margin: 0 auto;">
-  <span style="font-size: 35px; font-weight: bold; color: #FF6347;">💫 About Me</span><br><br>
+  <span style="font-size: 35px; font-weight: bold; color: #FF6347;">💫 About Me : </span><br><br>
 
   <span style="font-size: 22px; color: #333;">💻 <strong>Cybersecurity Specialist | Ethical Hacker | Programmer</strong></span><br>
   <span style="font-size: 18px; color: #555;">🎓 <em>Certified in Network Security and Ethical Hacking</em></span><br>
@@ -19,11 +19,11 @@
 
 
 
-# 🌐 Socials:
+# 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XtSpAFwVz6) 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
