@@ -1,21 +1,22 @@
 <div align = 'center'>
   <img src = './Void_Cipher.png' alt = 'image' />
-<h2 align="center" style="font-family: Arial, sans-serif; color: #4A90E2; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">
-  <span style="font-size: 30px; font-weight: bold;">💫 About Me</span><br><br>
-  
-  <span style="font-size: 22px; font-weight: 600;">💻 Cybersecurity Specialist | Ethical Hacker | Programmer</span><br>
-  <span style="font-size: 18px; font-weight: 400; color: #555;">🎓 Certified in Network Security and Ethical Hacking</span><br>
-  <span style="font-size: 18px; font-weight: 400; color: #555;">🔍 Expert in vulnerability assessment and remediation with a focus on quality and performance improvement</span><br>
-  <span style="font-size: 18px; font-weight: 400; color: #555;">🌐 Proficient in Python, Lua | Basic knowledge of ++C, C, HTML, CSS</span><br>
-  <span style="font-size: 18px; font-weight: 400; color: #555;">🖥 Passionate about operating systems and high-performance software development</span><br>
-  <span style="font-size: 18px; font-weight: 400; color: #555;">🤖 Skilled in applying artificial intelligence techniques for process optimization</span><br>
-  <span style="font-size: 18px; font-weight: 400; color: #555;">🚀 Committed to continuous learning and advancement in cybersecurity, delivering reliable solutions</span><br><br>
-  
-  <span style="font-size: 20px; font-weight: 600; color: #FF6347;">#VoidCipher</span><br>
-  <span style="font-size: 18px; color: #333;">Advanced and Trusted Security Solutions</span><br><br>
-  
-  <img src="https://i.imgur.com/waxVImv.png" alt="Void Cipher" style="border-radius: 10px; max-width: 100%; height: auto; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #2F4F4F; background-color: #f4f4f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 80%; margin: 0 auto;">
+  <span style="font-size: 35px; font-weight: bold; color: #FF6347;">💫 About Me</span><br><br>
+
+  <span style="font-size: 22px; color: #333;">💻 <strong>Cybersecurity Specialist | Ethical Hacker | Programmer</strong></span><br>
+  <span style="font-size: 18px; color: #555;">🎓 <em>Certified in Network Security and Ethical Hacking</em></span><br>
+  <span style="font-size: 18px; color: #555;">🔍 <em>Expert in vulnerability assessment and remediation with a focus on quality and performance improvement</em></span><br>
+  <span style="font-size: 18px; color: #555;">🌐 <em>Proficient in Python, Lua | Basic knowledge of ++C, C, HTML, CSS</em></span><br>
+  <span style="font-size: 18px; color: #555;">🖥 <em>Passionate about operating systems and high-performance software development</em></span><br>
+  <span style="font-size: 18px; color: #555;">🤖 <em>Skilled in applying artificial intelligence techniques for process optimization</em></span><br>
+  <span style="font-size: 18px; color: #555;">🚀 <em>Committed to continuous learning and advancement in cybersecurity, delivering reliable solutions</em></span><br><br>
+
+  <span style="font-size: 24px; font-weight: bold; color: #FF6347;">#VoidCipher</span><br>
+  <span style="font-size: 20px; color: #333;">🌟 Advanced and Trusted Security Solutions</span><br><br>
+
+  <img src="https://i.imgur.com/waxVImv.png" alt="Void Cipher" style="border-radius: 15px; width: 100%; max-width: 500px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);">
 </h2>
+
 
 
 # 🌐 Socials:
