@@ -24,7 +24,7 @@
 
 
 # 💻 Tech Stack :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://skillicons.dev/icons?i=lua) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS](https://skillicons.dev/icons?i=css) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://skillicons.dev/icons?i=c)
+![HTML](https://skillicons.dev/icons?i=html) ![Lua](https://skillicons.dev/icons?i=lua) ![GitHub](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg) ![CSS](https://skillicons.dev/icons?i=css) ![Python](https://skillicons.dev/icons?i=py) ![MySQL](https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg) ![C](https://skillicons.dev/icons?i=c)
 
 
 [![](https://visitcount.itsvg.in/api?id=Big-Developers1&icon=5&color=0)](https://visitcount.itsvg.in)
