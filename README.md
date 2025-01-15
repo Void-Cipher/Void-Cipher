@@ -33,20 +33,26 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-# ✍️ Dev Quote
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #2F4F4F; background-color: #f4f4f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); max-width: 80%; margin: 0 auto;">
+  <span style="font-size: 35px; font-weight: bold; color: #FF6347;">💫 Dev Quote</span><br><br>
 
-### In a world built on code and data, power lies in what remains unseen. 🌐  
-I move through the depths of systems, where others only glance. 👀 I read the codes that others can't even hear, and use them to shape the digital reality. 💻
+  <span style="font-size: 22px; color: #333;">🌐 <strong>In a world built on code and data, power lies in what remains unseen.</strong></span><br><br>
+  
+  <span style="font-size: 18px; color: #555;">👀 <em>I move through the depths of systems, where others only glance. I read the codes that others can't even hear, and use them to shape the digital reality. 💻</em></span><br><br>
+  
+  <span style="font-size: 18px; color: #555;">🔍 <em>My world isn't just about vulnerabilities and weaknesses; I see them as opportunities for reinvention. 🛠️ My tools aren't just lines of code; they're the ability to understand and transform any system others deem flawless.</em></span><br><br>
+  
+  <span style="font-size: 18px; color: #555;">💡🚀 <em>For me, hacking isn't just about breaking a system—it's about discovery, innovation, and progress.</em></span><br><br>
+  
+  <span style="font-size: 18px; color: #555;">✏️ <em>I don't follow the rules; I rewrite them. 🔓 I don't destroy systems; I reveal their true nature.</em></span><br><br>
+  
+  <span style="font-size: 18px; color: #555;">🔐 <em>In every lock, there's a code waiting to be cracked. 💥 In every firewall, there's a weakness waiting to be exploited. 🌌 And in every system, a universe of data is waiting to be uncovered.</em></span><br><br>
 
-### My world isn't just about vulnerabilities and weaknesses; I see them as opportunities for reinvention. 🔍 My tools aren't just lines of code; they're the ability to understand and transform any system others deem flawless. 🛠️
+  <span style="font-size: 20px; font-weight: bold; color: #FF6347;">👁️ This is my world. A place where digital truths are laid bare, and nothing escapes my sight.</span><br><br>
 
-### For me, hacking isn't just about breaking a system—it's about discovery, innovation, and progress. 💡🚀
+  <img src="https://i.imgur.com/waxVImv.png" alt="Void Cipher" style="border-radius: 15px; width: 100%; max-width: 500px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);">
+</h2>
 
-### I don't follow the rules; I rewrite them. ✏️ I don't destroy systems; I reveal their true nature. 🔓
-
-### In every lock, there's a code waiting to be cracked. 🔐 In every firewall, there's a weakness waiting to be exploited. 💥 And in every system, a universe of data is waiting to be uncovered. 🌌
-
-### This is my world. A place where digital truths are laid bare, and nothing escapes my sight. 👁️
 
 
 ![](https://i.imgur.com/waxVImv.png)
