@@ -20,7 +20,7 @@
 
 
 # 🌐 Socials :
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/XtSpAFwVz6) 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/https://discord.gg/XtSpAFwVz6) 
 
 
 # 💻 Tech Stack :
