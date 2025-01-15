@@ -50,7 +50,7 @@
 
   <span style="font-size: 2px; font-weight: bold; color: #FF6347;">👁️ This is my world. A place where digital truths are laid bare, and nothing escapes my sight.</span><br><br>
 
-  <img src="https://i.imgur.com/waxVImv.png" alt="Void Cipher" style="border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 10px;">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Void Cipher" style="border-radius: 10px; width: 100%; max-width: 200px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 10px;">
 </h2>
 
 
