@@ -36,19 +36,19 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #2F4F4F; background-color: #f4f4f9; padding: 15px; border-radius: 12px; box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1); max-width: 70%; margin: 20px auto; line-height: 1.6;">
   <span style="font-size: 22px; font-weight: bold; color: #FF6347;">💫 Dev Quote</span><br><br>
 
-  <span style="font-size: 10px; color: #333;">🌐 <strong>In a world built on code and data, power lies in what remains unseen.</strong></span><br><br>
+  <span style="font-size: 2px; color: #333;">🌐 <strong>In a world built on code and data, power lies in what remains unseen.</strong></span><br><br>
   
-  <span style="font-size: 10px; color: #555;">👀 <em>I move through the depths of systems, where others only glance. I read the codes that others can't even hear, and use them to shape the digital reality. 💻</em></span><br><br>
+  <span style="font-size: 2px; color: #555;">👀 <em>I move through the depths of systems, where others only glance. I read the codes that others can't even hear, and use them to shape the digital reality. 💻</em></span><br><br>
   
-  <span style="font-size: 10px; color: #555;">🔍 <em>My world isn't just about vulnerabilities and weaknesses; I see them as opportunities for reinvention. 🛠️ My tools aren't just lines of code; they're the ability to understand and transform any system others deem flawless.</em></span><br><br>
+  <span style="font-size: 2px; color: #555;">🔍 <em>My world isn't just about vulnerabilities and weaknesses; I see them as opportunities for reinvention. 🛠️ My tools aren't just lines of code; they're the ability to understand and transform any system others deem flawless.</em></span><br><br>
   
-  <span style="font-size: 10px; color: #555;">💡🚀 <em>For me, hacking isn't just about breaking a system—it's about discovery, innovation, and progress.</em></span><br><br>
+  <span style="font-size: 2px; color: #555;">💡🚀 <em>For me, hacking isn't just about breaking a system—it's about discovery, innovation, and progress.</em></span><br><br>
   
-  <span style="font-size: 10px; color: #555;">✏️ <em>I don't follow the rules; I rewrite them. 🔓 I don't destroy systems; I reveal their true nature.</em></span><br><br>
+  <span style="font-size: 2px; color: #555;">✏️ <em>I don't follow the rules; I rewrite them. 🔓 I don't destroy systems; I reveal their true nature.</em></span><br><br>
   
-  <span style="font-size: 10px; color: #555;">🔐 <em>In every lock, there's a code waiting to be cracked. 💥 In every firewall, there's a weakness waiting to be exploited. 🌌 And in every system, a universe of data is waiting to be uncovered.</em></span><br><br>
+  <span style="font-size: 2px; color: #555;">🔐 <em>In every lock, there's a code waiting to be cracked. 💥 In every firewall, there's a weakness waiting to be exploited. 🌌 And in every system, a universe of data is waiting to be uncovered.</em></span><br><br>
 
-  <span style="font-size: 10px; font-weight: bold; color: #FF6347;">👁️ This is my world. A place where digital truths are laid bare, and nothing escapes my sight.</span><br><br>
+  <span style="font-size: 2px; font-weight: bold; color: #FF6347;">👁️ This is my world. A place where digital truths are laid bare, and nothing escapes my sight.</span><br><br>
 
   <img src="https://i.imgur.com/waxVImv.png" alt="Void Cipher" style="border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-top: 10px;">
 </h2>
