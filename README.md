@@ -24,7 +24,7 @@
 
 
 # 💻 Tech Stack :
-![HTML](https://skillicons.dev/icons?i=html) ![Lua](https://skillicons.dev/icons?i=lua) ![GitHub](https://skillicons.dev/icons?i=GitHub) ![CSS](https://skillicons.dev/icons?i=css) ![Python](https://skillicons.dev/icons?i=py) ![MySQL](https://skillicons.dev/icons?i=MySQL) ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![GitHub](https://skillicons.dev/icons?i=GitHub) ![Lua](https://skillicons.dev/icons?i=lua) ![Python](https://skillicons.dev/icons?i=py) ![MySQL](https://skillicons.dev/icons?i=MySQL) ![C](https://skillicons.dev/icons?i=c) ![CPP](https://skillicons.dev/icons?i=cpp)
 
 
 [![](https://visitcount.itsvg.in/api?id=Big-Developers1&icon=5&color=0)](https://visitcount.itsvg.in)
