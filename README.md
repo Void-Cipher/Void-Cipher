@@ -34,11 +34,20 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 # ✍️ Dev Quote
-### In a world built on code, the unseen becomes power.
-### I am the shadow in the system, the cipher in the void. I don't just see the matrix, I bend it. Vulnerabilities are my roadmap, exploits are my weapon, and knowledge is my only ally. The art of hacking is not destruction—it's creation, innovation, and evolution.
-### I don't follow the code; I rewrite it. I don't break systems; I uncover their truth.
-### Every lock has a key. Every firewall has a weakness. And every system is just waiting to be understood.
-### Welcome to my world. This is the digital frontier.
+
+### In a world built on code and data, power lies in what remains unseen. 🌐  
+I move through the depths of systems, where others only glance. 👀 I read the codes that others can't even hear, and use them to shape the digital reality. 💻
+
+### My world isn't just about vulnerabilities and weaknesses; I see them as opportunities for reinvention. 🔍 My tools aren't just lines of code; they're the ability to understand and transform any system others deem flawless. 🛠️
+
+### For me, hacking isn't just about breaking a system—it's about discovery, innovation, and progress. 💡🚀
+
+### I don't follow the rules; I rewrite them. ✏️ I don't destroy systems; I reveal their true nature. 🔓
+
+### In every lock, there's a code waiting to be cracked. 🔐 In every firewall, there's a weakness waiting to be exploited. 💥 And in every system, a universe of data is waiting to be uncovered. 🌌
+
+### This is my world. A place where digital truths are laid bare, and nothing escapes my sight. 👁️
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
