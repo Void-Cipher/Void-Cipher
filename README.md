@@ -3,7 +3,7 @@
 <h2 align = 'center'>
  💫 About Me :
   
-  Void Cipher always On Top<br>I'm Fivem & Developers ( Last Work 2024 )<br>Python programmer ( Last Work 2024 )<br>HTML & CSS programmer ( Last Work 2022 )<br>Lua programmer ( Last Work 2024 )<br>MySQL programmer ( Last Work 2024 )<br>
+  Void Cipher always On Top<br>💻 Cybersecurity Specialist | Ethical Hacker | Programmer <br>🎓 Certified in Network Security and Ethical Hacking<br>🔍 Expert in vulnerability assessment and remediation with a focus on quality and performance improvement<br>🌐 Proficient in Python, Lua | Basic knowledge of ++C, C, HTML، CSS<br>🖥 Passionate about operating systems and high-performance software development<br>🤖 Skilled in applying artificial intelligence techniques for process optimization<br>🚀 Committed to continuous learning and advancement in cybersecurity, delivering reliable solutions <br>#VoidCipher <br>Advanced and Trusted Security Solutions <br>
   
   ![](https://i.imgur.com/waxVImv.png)
   
