@@ -34,7 +34,7 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <h3 align="center" style="font-family: 'Arial', sans-serif; color: #2F4F4F; background-color: #f4f4f9; padding: 10px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); max-width: 60%; margin: 10px auto; line-height: 1.4;">
-  <span style="font-size: 18px; font-weight: bold; color: #FF6347;">💫 Dev Quote</span><br><br>
+  <span style="font-size: 18px; font-weight: bold; color: #FF6347;">💫 Dev Quote : </span><br><br>
 
   <span style="font-size: 14px; color: #333;">🌐 <strong>In a world built on code and data, power lies in what remains unseen.</strong></span><br><br>
   
